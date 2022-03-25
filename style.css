@@ -1,0 +1,111 @@
+::root {
+  --primary: #fefaed;
+  --secondary: #f9c319;
+}
+body {
+  font-family: "Nunito", sans-serif;
+}
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+
+.img-half {
+  width: 50%;
+  height: 60vh;
+  background-size: cover;
+}
+
+.about-pic {
+  background-image: url(https://d167y3o4ydtmfg.cloudfront.net/367/studio/assets/v1544444262302_109316698/yellowband_Desktop-min.jpg);
+}
+
+.history-pic {
+  background-image: url(https://d167y3o4ydtmfg.cloudfront.net/367/studio/assets/v1544444864562_459703532/fromthebegining_Desktop-min.jpg);
+}
+
+.img-prod {
+  background-image: url(https://d167y3o4ydtmfg.cloudfront.net/367/studio/assets/v1545112705746_1893981040/02OurProducts_Desktop-min.jpg);
+  background-size: cover;
+  height: 80vh;
+}
+
+.meat {
+  height: 80vh;
+}
+
+.mmmheight {
+  height: 80vh;
+}
+.img-qrtr {
+  min-height: 100%;
+  background-size: cover;
+}
+
+.one {
+  background-image: url(https://d167y3o4ydtmfg.cloudfront.net/367/studio/assets/v1544445190063_636971157/wienermobile-collage-2-min.png);
+}
+.two {
+  background-image: url(https://d167y3o4ydtmfg.cloudfront.net/367/studio/assets/v1544445153096_1456973559/wienermobile-collage-1-min.png);
+}
+.three {
+  background-image: url(https://d167y3o4ydtmfg.cloudfront.net/367/studio/assets/v1544445472078_881849391/wienermobile-collage-5-min.png);
+}
+.four {
+  background-image: url(https://d167y3o4ydtmfg.cloudfront.net/367/studio/assets/v1544445226921_1271266080/wienermobile-collage-3-min.png);
+}
+.five {
+  background-image: url(https://d167y3o4ydtmfg.cloudfront.net/367/studio/assets/v1544445517615_1692163613/wienermobile-collage-6-min.png);
+}
+.six {
+  background-image: url(https://d167y3o4ydtmfg.cloudfront.net/367/studio/assets/v1544445433478_1391260248/wienermobile-collage-4-min.png);
+}
+
+h2 {
+  font-family: "Nunito", sans-serif;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.qrtr-height {
+  height: 10vh;
+}
+
+.text-fix {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.yellow-ween {
+  background-color: var(--secondary);
+}
+
+.ween-mobile {
+  background-image: url(https://d167y3o4ydtmfg.cloudfront.net/367/studio/assets/v1544593622954_124827809/footer-spot.png);
+  min-height: 80%;
+  background-size: 80%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+i {
+  color: #f79f09;
+}
+
+a {
+  border-style: hidden;
+  color: gray;
+  font-family: "Nunito", sans-serif;
+  text-decoration: none;
+  font-size: large;
+}
+
+.font {
+  font-family: "Nunito", sans-serif;
+}
